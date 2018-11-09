@@ -1,2 +1,2 @@
 # python自学
-no more
+no study，no money
