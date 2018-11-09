@@ -1,2 +1,2 @@
-# python高级特性
-Python切片
+# python自学
+no more
